@@ -1,0 +1,18 @@
+# Ignore node modules
+node_modules/
+
+# Ignore build outputs
+dist/
+build/
+.next/
+
+# Ignore environment files
+.env
+.env.local
+
+# Ignore OS/system files
+.DS_Store
+Thumbs.db
+
+# Ignore VSCode extensions and settings
+.vscode/
